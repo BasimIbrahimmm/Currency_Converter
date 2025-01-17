@@ -1,2 +1,2 @@
 # Currency_Converter
-A simple and efficient currency converter app that allows users to convert amounts between different currencies. Built using Python, it fetches real-time exchange rates and offers a user-friendly interface for quick and accurate conversions.
+An easy-to-use Android app for converting currencies in real-time. Supports multiple currencies including USD, EUR, GBP, INR, PKR, and more. Built with Java and Android Studio for accurate and quick conversions on the go. Ideal for travelers, businesses, and anyone dealing with multiple currencies.
